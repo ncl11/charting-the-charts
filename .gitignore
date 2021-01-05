@@ -20,4 +20,4 @@
 !.jupyter/*.py
 !doc/
 !doc/*.png
-!*.png
+!figs*.png
